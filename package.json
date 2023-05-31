@@ -1,7 +1,7 @@
 {
   "name": "nest-javascript-starter",
-  "version": "1.0.0",
-  "description": "Nest Template development",
+  "version": "1.0.1",
+  "description": "Nest Framework Nodejs development",
   "scripts": {
     "start": "babel-node index.js",
     "start:dev": "nodemon",
