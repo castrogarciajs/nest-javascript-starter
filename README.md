@@ -7,9 +7,6 @@
 [linux-image]: https://img.shields.io/travis/nestjs/nest/master.svg?label=linux
 [linux-url]: https://travis-ci.org/nestjs/nest
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-
-
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework JavaScript starter repository.
